@@ -1,9 +1,20 @@
 # hello-world
 
-I have been using git for a while but never seriously examine it in detail. 
+A simplified example to get started with Redux
+1. Clone this project, or download and unzip it. Change to the product folder. 
+Open Terminal to install neccessary package.
 
-With this experiment, I hope I can learn it better.
+  npm install -g babel
+	npm install -g babel-cli
+	npm install babel-core
+	npm install babel-loader
+	npm install babel-preset-es2015
+	npm install babel-preset-react
 
-Now I branch it and try to update it.
+  npm install --save react
+	npm install --save react-dom
+	npm install --save redux
+	npm install --save react-redux
 
---here what I update my local and commit directly to master
+2. Start the project by typing: npm start
+
